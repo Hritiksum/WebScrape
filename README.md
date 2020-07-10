@@ -1,2 +1,2 @@
 # WebScrape
-Web scrape using Beautiful soup. extract details like Web page company name, title, description,.
+Web scrape using Beautiful soup. Extracting details like Web page company name, title, description.
